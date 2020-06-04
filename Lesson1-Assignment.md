@@ -12,7 +12,7 @@ http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pd
 ![软件架构图](structure.jpg)
 
 ## 3，代码骨架
-老师，这我真的不太会
+老师，这我真的不太会:(
 
 
 

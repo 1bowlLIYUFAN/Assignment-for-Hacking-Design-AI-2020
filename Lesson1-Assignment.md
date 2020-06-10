@@ -12,7 +12,7 @@ http://people.csail.mit.edu/jahanian/papers/Jahanian_ColorDesign_ADoMC_EI2013.pd
 ![软件架构图](structure2.jpg)
 
 ## 3，代码骨架
-https://github.com/1bowlLIYUFAN/Assignment-for-Hacking-Design-AI-2020/blob/master/Lesson1_paper%20notebook.ipynb
+https://github.com/1bowlLIYUFAN/Assignment-for-Hacking-Design-AI-2020/blob/master/Lesson1_notebook_of_paper.ipynb
 
 
 
